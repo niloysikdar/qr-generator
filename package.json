@@ -1,0 +1,20 @@
+{
+  "name": "qr-generator",
+  "description": "Generate large amount of QR code in image format for college ID card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/niloysikdar/qr-generator"
+  },
+  "author": {
+    "name": "Niloy Sikdar",
+    "email": "niloysikdar30@gmail.com",
+    "url": "https://github.com/niloysikdar"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "qr-image": "^3.2.0",
+    "read-excel-file": "^5.2.28"
+  }
+}
